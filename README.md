@@ -1,4 +1,5 @@
-### Hi there 👋
+###
+Hi! I am Linux Man, Do you know you have rights? Well Consitution says you do, and so do I, and I believe until tried, every man, woman and child should try linux and that's why you should use Linux! Linux Man!
 
 <!--
 **JoshMayBalGitHub/JoshMayBalGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
